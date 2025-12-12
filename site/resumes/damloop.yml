@@ -1,0 +1,14 @@
+template: "online-cv"
+skin: "blue"
+
+basic_info:
+  first_name: "Damián"
+  last_name: "López"
+  github: "damloop"
+  motto: "Aprendiendo y compartiendo código"
+  focus: "Desarrollo Full Stack"
+  summary: |
+    Soy estudiante en 4Geeks, apasionado por la programación y la mejora continua.
+    Me interesa la logística, el e-commerce y la optimización de procesos.
+  avatar: http://sep.breatheco.de/static/profile-images/damloop.png
+  email: "tu_correo_real@ejemplo.com"
